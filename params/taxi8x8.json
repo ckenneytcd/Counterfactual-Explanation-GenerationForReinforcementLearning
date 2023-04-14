@@ -1,0 +1,11 @@
+{
+    "ts_n_iter": 1750,
+    "ts_n_expand": 50,
+    "n_sim": 100,
+    "gen_sample_size": 1000,
+    "gen_iter": 30,
+    "max_cf_path_len": 50
+}
+
+
+

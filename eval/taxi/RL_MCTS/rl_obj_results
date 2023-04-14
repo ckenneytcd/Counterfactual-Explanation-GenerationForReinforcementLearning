@@ -1,0 +1,55 @@
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,False
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.21046887208697748],[-2.0],[-0.13308305390696293],0.9996,"CFState =  TaxiPos:(1,2) PassLoc: 4 DestLoc: 0 Action path: ['NORTH', 'WEST']","['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",0,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16060003451277963],[-1.0],[-0.07232630604846398],0.9998,"CFState =  TaxiPos:(3,3) PassLoc: 4 DestLoc: 0 Action path: ['SOUTH']","['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",1,True
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",0,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",1,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",0,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",1,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",2,False
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(1,4) PassLoc: 1 DestLoc: 2']",0,False
+0,[1.0],[-0.0008],[-0.0],[0],[0],[0],[-0.5637012575922157],[-2.0],[-0.06556518601846535],0.9992,"CFState =  TaxiPos:(1,2) PassLoc: 1 DestLoc: 3 Action path: ['EAST', 'NORTH', 'NORTH', 'NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.001],[-0.0],[0],[0],[0],[-0.33040308822042064],[-2.0],[-0.046320202469272834],0.999,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH', 'WEST', 'SOUTH', 'WEST']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3173322347513324],[-1.0],[-0.04189624332717681],0.9996,"CFState =  TaxiPos:(4,3) PassLoc: 4 DestLoc: 0 Action path: ['SOUTH', 'SOUTH']","['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",0,True
+0,[1.0],[-0.0006],[-0.0],[0],[0],[0],[-0.3032701254791718],[-2.0],[-0.06486012814975234],0.9994,"CFState =  TaxiPos:(0,2) PassLoc: 4 DestLoc: 0 Action path: ['WEST', 'NORTH', 'NORTH']","['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",1,True
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",2,False
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3080063170477849],[-1.0],[-0.042172274502225486],0.9996,"CFState =  TaxiPos:(3,4) PassLoc: 1 DestLoc: 2 Action path: ['SOUTH', 'SOUTH']","['FState =  TaxiPos:(1,4) PassLoc: 1 DestLoc: 2']",0,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.2278851640835128],[-2.0],[-0.04081146912172829],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 2 Action path: ['SOUTH', 'WEST']","['FState =  TaxiPos:(1,4) PassLoc: 1 DestLoc: 2']",3,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.2965613222546197],[-1.0],[-0.05374716923850117],0.9996,"CFState =  TaxiPos:(1,0) PassLoc: 4 DestLoc: 2 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(3,0) PassLoc: 4 DestLoc: 2']",1,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.001],[-0.0],[0],[0],[0],[-0.33040308822042064],[-2.0],[-0.046320202469272834],0.999,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH', 'WEST', 'SOUTH', 'WEST']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.001],[-0.0],[0],[0],[0],[-0.33040308822042064],[-2.0],[-0.046320202469272834],0.999,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH', 'WEST', 'WEST', 'SOUTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3173322347513324],[-1.0],[-0.04189624332717681],0.9996,"CFState =  TaxiPos:(4,3) PassLoc: 4 DestLoc: 0 Action path: ['SOUTH', 'SOUTH']","['FState =  TaxiPos:(2,3) PassLoc: 4 DestLoc: 0']",0,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0002],[-0.0],[0],[0],[0],[-0.16571596662291077],[-1.0],[-0.046320202469272834],0.9998,"CFState =  TaxiPos:(3,1) PassLoc: 1 DestLoc: 3 Action path: ['NORTH']","['FState =  TaxiPos:(4,1) PassLoc: 1 DestLoc: 3']",2,True
+0,[1.0],[-0.0004],[-0.0],[0],[0],[0],[-0.3307146250645431],[-1.0],[-0.05372506952769976],0.9996,"CFState =  TaxiPos:(2,3) PassLoc: 1 DestLoc: 3 Action path: ['NORTH', 'NORTH']","['FState =  TaxiPos:(4,3) PassLoc: 1 DestLoc: 3']",2,True

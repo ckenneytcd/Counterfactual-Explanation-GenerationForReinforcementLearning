@@ -1,0 +1,3 @@
+,cost,reachability,stochasticity,validity,realistic,actionable,proximity,sparsity,dmc,total_reward,cf,fact,target,found
+0,[1.0],[-0.2],[-1.0],[0],[0],[0],[-0.2100311497385615],[-0.25],[-0.05080661461164104],-0.19999999999999996,"CFState =  TaxiPos:(0,1) PassLoc: 1 DestLoc: 3 Action path: []","['FState =  TaxiPos:(0,3) PassLoc: 1 DestLoc: 3']",0,True
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"['FState =  TaxiPos:(0,3) PassLoc: 1 DestLoc: 3']",3,False
